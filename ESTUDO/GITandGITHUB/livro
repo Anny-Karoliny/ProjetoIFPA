@@ -50,6 +50,7 @@ git remote add <servidor> <endereço com ip>
 git remote -v
 git push <servidor> master
 git pull <servidor> master
+git pull --rebase
 git remote rename <servidor> <OutroNome>
 git branch
 git branch -v
@@ -65,5 +66,17 @@ git branch --no-merged [mostrar as branch nao mescladas]
 git branch --merged [branchs mescladas]
 git merge <nome da blanch a ser mesclada> -m "<MENSAGEM>"
 git rebase <nome da branch a ser mesclada>
-
+git branch -r [listar branchs remotas]
+git branch -a [listar branchs locais]
+git push origin <nome da branch>
+git fetch origin [obter commits da branch remota]
+git tag v1.0 [ criar tag ]
+git tag  [ mostrar tags do repositorio]
+git tag -b <versao>  [DELETAR TAG]
+git tag -a <versao> -m "<MENSAGEM>"
+git show -s <versao>  [exibir informações da tag]
+git push origin <versao>
+git push origin --tags
+git rebase --continue
+git mergetool [invocar uma ferramenta de resolução de conflitos]
 
