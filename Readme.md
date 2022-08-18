@@ -9,7 +9,7 @@
 
 
 ## Tecnologias Usadas:
-    - php
-    - phpSpreadsheet
-    - Laravel
+    - PHP
+    - PhpSpreadsheet
+    - Framework Laravel
     - git and github
