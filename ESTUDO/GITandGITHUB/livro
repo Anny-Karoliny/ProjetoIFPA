@@ -1,0 +1,69 @@
+# Controlando versoes com git e github
+
+
+### capitulos
+[x] - Introdução
+[x] - Tour prático
+[x] - trabalhando com repositorio local
+[x] - Trabalhando com repositorio remoto
+[x] - Hospedando o repositorio no github
+[x] - Organizando o trabalho com branches
+[ ] - TRabalhando em equipe com branches remotas
+[ ] - Controlando versões do código com tags
+[ ] - Lidando com conflitos
+
+
+
+### COMANDS
+
+git config --global user.name "nome"
+git config --global user.email "email"
+git init
+git status
+git add <arquivo>
+git add . 
+git commit -am
+git commit -m "mensagem"
+git log
+git log --oneline
+git log --n 2
+git log --stat [mostra resumo dos arquivos alterados]
+git remote add origin <endereço do arquivo>
+git push origin main
+git clone
+<arquivo .gitignore com extensões, nomes.. de arquivos ignorados pelo git>
+git add .gitignore
+git diff [modificaçoes efetuadas, verficiar a diferença entre arquivos]
+git diff --staged [ver as diferenças na area da stage]
+git diff <numero de codigo do ultimo commit > [exibe as alterações nesse ultimo commit]
+git diff <numero de cogido> .. <numero de codigo de outro commit>
+git diff <numero de codigo> ~<numero de quantos commits anteriores serao considerados>
+git rm [remove arquivo da stage]
+git mv <nomeInicial> <nomeFinal>
+git checkout -- <nome do arquivo>  [desfaz alterações ainda nao rastreadas]
+git checkout -- <nome do arquivo>  [Recupera arquivo removido acidentalmente]
+git reset -- <nome do arquivo>
+git reset --hard
+git revert --no-edit <numero de codigo> [reverte alterações no repositorio]
+git init --bare <noome do repositorio remoto>
+git remote add <servidor> <endereço com ip>
+git remote -v
+git push <servidor> master
+git pull <servidor> master
+git remote rename <servidor> <OutroNome>
+git branch
+git branch -v
+<nome da branch> <numero de codigo> Revert "<Mensagem do commit>"
+git log --parents
+git log --decorate
+git branch <nome da branch a ser criada>
+git checkout <nome da branch nova> [trocar de branch]
+git chechout -b <nome da branch a ser criada> [criar e já trocar para branch nova]
+git branch -d <nome da branch> [excluir branch]
+git branch -D <nome da branch> [excluir branch que ja tenha realizado um commit]
+git branch --no-merged [mostrar as branch nao mescladas]
+git branch --merged [branchs mescladas]
+git merge <nome da blanch a ser mesclada> -m "<MENSAGEM>"
+git rebase <nome da branch a ser mesclada>
+
+
