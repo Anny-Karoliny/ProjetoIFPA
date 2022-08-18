@@ -14,4 +14,6 @@
     Total de horas: 1 hora
 ## dia 14 de agosto
     Total de horas: 3 horas
-    
+## dia 18 de agosto:
+    Total de horas: 1h10 minutos
+
