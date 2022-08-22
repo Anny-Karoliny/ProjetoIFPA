@@ -1,5 +1,7 @@
 # PROJETO
 
+...Em processo de 'Estudo'
+
 
 ## Proposta de projeto
     - Desenvolvimento de um sistema WEB que exiba o horário de aulas das turmas do IFPA Campus Itaituba que permitirá que o usuário escolha uma turma dentro da aplicação para logo em seguida exibir horário atual e da semana seguinte.   
