@@ -16,4 +16,12 @@
     Total de horas: 3 horas
 ## dia 18 de agosto:
     Total de horas: 1h10 minutos
+## dia 19 de agosto:
+    Total de horas: 4 horas
+## dia 20 de agosto:
+    Total de horas: 4 horas
+## dia 21 de agosto:
+    Total de horas: 2 horas
+## dia 22 de agosto:
+    
 
