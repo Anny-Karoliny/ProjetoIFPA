@@ -23,5 +23,7 @@
 ## dia 21 de agosto:
     Total de horas: 2 horas
 ## dia 22 de agosto:
+    Total de horas: 3 horas
+## dia 4 de setembro
     
 

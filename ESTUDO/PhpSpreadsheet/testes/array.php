@@ -64,5 +64,11 @@ echo 'Hora da celula A6: '.$hourFormated .PHP_EOL;
 
 $hour = $sheet->getCell('a6')->getFormattedValue();
 
+
+// Get the value from cell B5
+$cellValue = $spreadsheet->getActiveSheet()->getCellByColumnAndRow(2, 5)->getValue();
+
+echo 'pegando valor da celula: '.$cellValue.PHP_EOL;
+
 $writer = new Xlsx($spreadsheet);
 $writer->save('rowandcolumn.xlsx');
