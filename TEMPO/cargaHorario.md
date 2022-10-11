@@ -24,6 +24,9 @@
     Total de horas: 2 horas
 ## dia 22 de agosto:
     Total de horas: 3 horas
-## dia 4 de setembro
+## dia 10 de outubro:
+    Total de horas: 30 minutos
+## dia 11 de outubro:
+    Total de horas:
     
 
