@@ -27,6 +27,7 @@
 ## dia 10 de outubro:
     Total de horas: 30 minutos
 ## dia 11 de outubro:
-    Total de horas:
-    
+    Total de horas: 2 horas
+## dia 12 de outubro:
+    Total de horas: 4 horas    
 
