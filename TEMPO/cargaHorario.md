@@ -30,4 +30,5 @@
     Total de horas: 2 horas
 ## dia 12 de outubro:
     Total de horas: 4 horas    
-
+## dia 26 de outubro:
+		Total de horas: 4 horas
